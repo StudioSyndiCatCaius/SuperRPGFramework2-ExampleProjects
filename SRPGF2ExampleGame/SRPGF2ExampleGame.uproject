@@ -1,0 +1,35 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "SuperRPGFramework2",
+			"Enabled": true
+		},
+		{
+			"Name": "SRPGF_StarterContent",
+			"Enabled": true
+		},
+		{
+			"Name": "ActionsExtension",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2924990b22c1452aa20a21af60c4aa12"
+		},
+		{
+			"Name": "EditorScriptingTools",
+			"Enabled": true,
+			"MarketplaceURL": "http://ue4resources.com"
+		},
+		{
+			"Name": "EnhancedInput",
+			"Enabled": true
+		},
+		{
+			"Name": "LowEntryExtStdLib",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/846c2ad08f164f45b0335ecebf85361e"
+		}
+	]
+}
