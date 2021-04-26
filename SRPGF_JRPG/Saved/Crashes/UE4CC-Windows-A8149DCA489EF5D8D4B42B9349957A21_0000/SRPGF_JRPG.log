@@ -1,0 +1,1639 @@
+﻿Log file open, 04/23/21 13:20:18
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: SRPGF_JRPG
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.793043
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin EnhancedInput
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActionsExtension
+LogPluginManager: Mounting plugin LowEntryExtStdLib
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin SuperRPGFramework2
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin SRPGF_ClassicOverworld
+LogPluginManager: Mounting plugin SRPGF_TurnBasedCombat
+LogPluginManager: Mounting plugin SRPGF_StarterContent
+LogPluginManager: Mounting plugin EditorScriptingTools
+LogXGEController: Cleaning working directory: C:/Users/Jonathan/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 2600X Six-Core Processor           , GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Engine.ini]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2021.04.23-17.20.20:779][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2021.04.23-17.20.20:780][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Engine.ini]
+[2021.04.23-17.20.20:781][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Engine.ini]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Engine.ini]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.04.23-17.20.20:781][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Engine.ini]
+[2021.04.23-17.20.20:781][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Engine.ini]
+[2021.04.23-17.20.20:832][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Scalability.ini]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Scalability.ini]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Scalability.ini]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Scalability.ini]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Scalability.ini]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.23-17.20.20:832][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Scalability.ini]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Scalability.ini]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Scalability.ini]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.23-17.20.20:833][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.23-17.20.20:833][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.23-17.20.20:834][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.23-17.20.20:834][  0]LogHAL: Display: Platform has ~ 16 GB [17102356480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.23-17.20.20:834][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.23-17.20.20:834][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Scalability.ini]
+[2021.04.23-17.20.20:834][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Scalability.ini]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Scalability.ini]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Scalability.ini]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Scalability.ini]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Scalability.ini]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.23-17.20.20:835][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.23-17.20.20:836][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2021.04.23-17.20.20:836][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.23-17.20.20:836][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2021.04.23-17.20.20:836][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.23-17.20.20:836][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.23-17.20.20:836][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.23-17.20.20:836][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Scalability.ini]
+[2021.04.23-17.20.20:836][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2021.04.23-17.20.20:836][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2021.04.23-17.20.20:836][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Scalability.ini]
+[2021.04.23-17.20.20:836][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.23-17.20.20:836][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.23-17.20.20:836][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.23-17.20.20:836][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.23-17.20.20:837][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.23-17.20.20:837][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.23-17.20.20:837][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.23-17.20.20:837][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Engine.ini]
+[2021.04.23-17.20.20:837][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../Templates/SRPGF/SRPGF_JRPG/Saved/Config/Windows/Editor.ini]
+[2021.04.23-17.20.20:837][  0]LogInit: Computer: DESKTOP-EDNUJI2
+[2021.04.23-17.20.20:837][  0]LogInit: User: Jonathan
+[2021.04.23-17.20.20:837][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.04.23-17.20.20:837][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.23-17.20.20:837][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.04.23-17.20.20:837][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.23-17.20.20:837][  0]LogMemory: Process Physical Memory: 137.28 MB used, 137.29 MB peak
+[2021.04.23-17.20.20:837][  0]LogMemory: Process Virtual Memory: 111.91 MB used, 111.91 MB peak
+[2021.04.23-17.20.20:837][  0]LogMemory: Physical Memory: 7593.34 MB used,  8716.74 MB free, 16310.08 MB total
+[2021.04.23-17.20.20:837][  0]LogMemory: Virtual Memory: 134184696.00 MB used,  33032.26 MB free, 134217728.00 MB total
+[2021.04.23-17.20.20:843][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.23-17.20.21:225][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.23-17.20.21:230][  0]LogInit: Using OS detected language (en-US).
+[2021.04.23-17.20.21:230][  0]LogInit: Using OS detected locale (en-US).
+[2021.04.23-17.20.21:249][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.04.23-17.20.21:589][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.23-17.20.21:624][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.23-17.20.21:716][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.23-17.20.21:716][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.23-17.20.25:096][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.23-17.20.25:096][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.23-17.20.25:096][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.23-17.20.25:218][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2021.04.23-17.20.25:218][  0]LogD3D11RHI:       6052/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:4, VendorId:0x10de
+[2021.04.23-17.20.25:221][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.23-17.20.25:221][  0]LogD3D11RHI:       0/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.23-17.20.25:221][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.23-17.20.25:230][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.23-17.20.25:230][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2021.04.23-17.20.25:230][  0]LogWindows: EnumDisplayDevices:
+[2021.04.23-17.20.25:230][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2021.04.23-17.20.25:230][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2021.04.23-17.20.25:230][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2021.04.23-17.20.25:231][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2021.04.23-17.20.25:231][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.04.23-17.20.25:231][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2021.04.23-17.20.25:231][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.04.23-17.20.25:231][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.04.23-17.20.25:231][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.04.23-17.20.25:292][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.04.23-17.20.25:293][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.23-17.20.25:293][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.04.23-17.20.25:333][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.04.23-17.20.25:337][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.04.23-17.20.25:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.23-17.20.25:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.23-17.20.25:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.23-17.20.25:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.23-17.20.25:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.23-17.20.25:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.23-17.20.25:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.23-17.20.25:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.23-17.20.25:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.23-17.20.25:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.23-17.20.25:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.23-17.20.26:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.23-17.20.26:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.23-17.20.26:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.23-17.20.26:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.23-17.20.26:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.23-17.20.26:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.23-17.20.26:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.23-17.20.26:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.23-17.20.26:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.23-17.20.26:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.23-17.20.26:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.23-17.20.26:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.04.23-17.20.26:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.04.23-17.20.26:384][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.04.23-17.20.26:410][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.04.23-17.20.26:445][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.23-17.20.26:445][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.23-17.20.26:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.23-17.20.26:502][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.23-17.20.26:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.23-17.20.26:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.23-17.20.26:558][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.23-17.20.26:652][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.23-17.20.27:187][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.04.23-17.20.27:188][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (../../../Templates/SRPGF/SRPGF_JRPG/Intermediate/Shaders/WorkingDirectory/31740/).
+[2021.04.23-17.20.27:188][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jonathan/AppData/Local/Temp/UnrealShaderWorkingDir/4CDDC7A94E5AF4D4ED32F0B93A11D9D0/'.
+[2021.04.23-17.20.27:188][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.23-17.20.27:189][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.23-17.20.31:060][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.23-17.20.31:280][  0]LogDerivedDataCache: Loaded boot cache 0.22s 77MB C:/Users/Jonathan/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.23-17.20.31:280][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jonathan/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.04.23-17.20.31:280][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../Templates/SRPGF/SRPGF_JRPG/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.23-17.20.31:280][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.23-17.20.31:280][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../Templates/SRPGF/SRPGF_JRPG/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.23-17.20.31:280][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.23-17.20.31:304][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.23-17.20.31:305][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.23-17.20.31:305][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.23-17.20.31:321][  0]LogDerivedDataCache: Speed tests for C:/Users/Jonathan/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.04.23-17.20.31:321][  0]LogDerivedDataCache: Display: Performance to C:/Users/Jonathan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.15ms. RandomReadSpeed=110.82MBs, RandomWriteSpeed=144.86MBs. Assigned SpeedClass 'Local'
+[2021.04.23-17.20.31:322][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jonathan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.23-17.20.31:322][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.23-17.20.31:322][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.23-17.20.31:379][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.23-17.20.31:402][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.23-17.20.31:460][  0]LogAssetRegistry: FAssetRegistry took 0.0055 seconds to start up
+[2021.04.23-17.20.31:806][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.23-17.20.31:806][  0]LogInit: Active device profile: [00000250481C2300][0000025046E6ED80 49] Windows
+[2021.04.23-17.20.31:806][  0]LogInit: Profiles: [00000250481C2300][0000025046E6ED80 49] Windows, [0000025048165D00][0000025046E7CF00 49] WindowsNoEditor, [00000250481C3100][00000250478C1080 49] WindowsServer, [0000025048167600][00000250478C5200 49] WindowsClient, [00000250481C2C00][00000250478C9380 49] IOS, [0000025048165F00][00000250478CD500 49] iPadAir, [00000250481C0F00][00000250478D1680 49] iPadAir2, [000002504811EF00][00000250478DB8C0 49] IPadPro, [000002504811F000][0000025046E73900 49] iPadAir3, [00000250481C2B00][00000250478E5A40 49] iPadAir4, [000002504811EB00][00000250478E9B80 49] iPadMini2, [00000250481C2100][00000250478F1D00 49] iPadMini3, [000002504811DD00][00000250478F41C0 49] iPadMini4, [00000250481C2F00][00000250478F8340 49] iPadMini5, [0000025048132800][0000025047900600 49] iPhone6, [0000025048132900][00000250478FC640 49] iPodTouch6, [0000025048165000][0000025047908900 49] iPhone7, [0000025048166E00][0000025047904940 49] iPodTouch7, [0000025048130E00][000002504790CAC0 49] iPhone5S, [0000025048164A00][0000025047910C40 49] iPhone6Plus, [0000025048131300][0000025047914DC0 49] iPhone6S, [0000025048167F00][0000025047918F40 49] iPhone6SPlus, [0000025048132D00][000002504791D0C0 49] iPhone7Plus, [0000025048164D00][0000025047921240 49] iPhoneSE, [0000025048133000][00000250479253C0 49] iPhone8, [0000025048166400][0000025047929540 49] iPhone8Plus, [0000025048131F00][000002504792D6C0 49] iPhoneX, [0000025048164100][00000250478ED800 49] iPhoneXS, [0000025048130300][0000025047931940 49] iPhoneXSMax, [0000025048165E00][0000025047935A80 49] iPhoneXR, [0000025048131000][0000025047939BC0 49] iPhone11, [0000025048164B00][0000025047941D40 49] iPhone11Pro, [0000025048133800][0000025047944200 49] iPhone11ProMax, [0000025048166B00][0000025047948380 49] iPhoneSE2, [0000025048132600][000002504794C500 49] iPhone12Mini, [0000025048164800][0000025047950680 49] iPhone12, [0000025048130C00][0000025047954800 49] iPhone12Pro, [0000025048165100][0000025047958980 49] iPhone12ProMax, [0000025048131700][000002504795CB00 49] iPadPro105, [0000025048167300][0000025047960C80 49] iPadPro129, [0000025048131600][0000025047964E00 49] iPadPro97, [0000025048131E00][0000025047968F80 49] iPadPro2_129, [00000250481C2D00][000002504796D100 49] iPad5, [0000025048133E00][0000025047971280 49] iPad6, [00000250481C2000][0000025047975400 49] iPad7, [0000025048133D00][0000025047979580 49] iPad8, [0000025048167900][000002504797D700 49] iPadPro11, [0000025048133700][0000025047981880 49] iPadPro2_11, [0000025048164C00][000002504793D9C0 49] iPadPro3_129, [0000025048132C00][0000025047985B00 49] iPadPro4_129, [0000025048165900][0000025047989C40 49] AppleTV, [0000025048130500][0000025047990100 49] AppleTV4K, [0000025048167E00][0000025047994280 49] TVOS, [0000025048131D00][0000025047998400 49] Mac, [0000025048166100][000002504799C580 49] MacClient, [0000025048130B00][00000250479A0700 49] MacNoEditor, [0000025048165A00][00000250479A4880 49] MacServer, [0000025048133F00][00000250479A8A00 49] Linux, [0000025048166900][00000250479ACB80 49] LinuxAArch64, [0000025048131800][00000250479B0D00 49] LinuxNoEditor, [0000025048165300][00000250479BCE80 49] LinuxAArch64NoEditor, [0000025048131900][00000250479D5000 49] LinuxClient, [0000025048166500][00000250479D9180 49] LinuxAArch64Client, [0000025048132500][00000250479DD300 49] LinuxServer, [0000025048166C00][00000250479E1480 49] LinuxAArch64Server, [0000025048131C00][00000250479E5600 49] Android, [0000025048165700][00000250479E9780 49] Android_Low, [0000025048133C00][00000250479ED900 49] Android_Mid, [0000025048166A00][000002504798DA40 49] Android_High, [0000025048133400][00000250479F1B80 49] Android_Default, [0000025048167C00][00000250479F5CC0 49] Android_Adreno4xx, [0000025048132400][00000250479FC180 49] Android_Adreno5xx_Low, [0000025048165800][0000025047A00300 49] Android_Adreno5xx, [0000025048133100][0000025047A04480 49] Android_Adreno6xx, [0000025048167A00][0000025047A08600 49] Android_Adreno6xx_Vulkan, [0000025048130D00][0000025047A0C780 49] Android_Mali_T6xx, [0000025048166700][0000025047A10900 49] Android_Mali_T7xx, [0000025048132100][0000025047A14A80 49] Android_Mali_T8xx, [0000025048164300][0000025047A18C00 49] Android_Mali_G71, [0000025048130900][0000025047A1CD80 49] Android_Mali_G72, [0000025048164E00][0000025047A20F00 49] Android_Mali_G72_Vulkan, [0000025048133500][0000025047A25080 49] Android_Mali_G76, [0000025048167200][0000025047A29200 49] Android_Mali_G76_Vulkan, [0000025048132700][0000025047A2D380 49] Android_Mali_G77, [0000025048164500][0000025047A31500 49] Android_Mali_G77_Vulkan, [0000025048132B00][0000025047A35680 49] Android_Vulkan_SM5, [0000025048164F00][0000025047A39800 49] Android_PowerVR_G6xxx, [0000025048130700][0000025047A3D980 49] Android_PowerVR_GT7xxx, [0000025048165600][00000250479F9AC0 49] Android_PowerVR_GE8xxx, [00000250481C1600][0000025047A41C00 49] Android_PowerVR_GM9xxx, [000002504811CD00][0000025047A45D40 49] Android_PowerVR_GM9xxx_Vulkan, [00000250481C3700][0000025047A481C0 49] Android_TegraK1, [000002504811D900][0000025047A50340 49] Android_Unknown_Vulkan, [00000250481C1A00][0000025047A544C0 49] Lumin, [000002504811C800][0000025047A58640 49] Lumin_Desktop, [00000250481C3200][0000025047A5C7C0 49] HoloLens, 
+[2021.04.23-17.20.32:360][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.23-17.20.32:360][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.23-17.20.32:360][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.23-17.20.32:360][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.23-17.20.32:360][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.23-17.20.32:463][  0]LogNetVersion: SRPGF_JRPG 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 4263939978)
+[2021.04.23-17.20.34:134][  0]LogPackageLocalizationCache: Processed 26 localized package path(s) for 1 prioritized culture(s) in 0.090689 seconds
+[2021.04.23-17.20.34:140][  0]LogUObjectArray: 16664 objects as part of root set at end of initial load.
+[2021.04.23-17.20.34:141][  0]LogUObjectAllocator: 4164736 out of 0 bytes used by permanent object pool.
+[2021.04.23-17.20.34:141][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.23-17.20.36:401][  0]LogActions: ActionsExtension: Log Started
+[2021.04.23-17.20.36:534][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.23-17.20.36:577][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.23-17.20.37:102][  0]SourceControl: Source control is disabled
+[2021.04.23-17.20.37:102][  0]SourceControl: Source control is disabled
+[2021.04.23-17.20.37:130][  0]SourceControl: Source control is disabled
+[2021.04.23-17.20.37:174][  0]SourceControl: Source control is disabled
+[2021.04.23-17.20.37:241][  0]SourceControl: Source control is disabled
+[2021.04.23-17.20.37:264][  0]LogUProjectInfo: Found projects:
+[2021.04.23-17.20.38:922][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.23-17.20.39:052][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.23-17.20.39:052][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.23-17.20.39:412][  0]LogCollectionManager: Loaded 0 collections in 0.003064 seconds
+[2021.04.23-17.20.39:417][  0]LogFileCache: Scanning file cache for directory 'C:/Program Files/Epic Games/UE_4.26/Templates/SRPGF/SRPGF_JRPG/Saved/Collections/' took 0.00s
+[2021.04.23-17.20.39:417][  0]LogFileCache: Scanning file cache for directory 'C:/Program Files/Epic Games/UE_4.26/Templates/SRPGF/SRPGF_JRPG/Content/Developers/Jonathan/Collections/' took 0.00s
+[2021.04.23-17.20.39:417][  0]LogFileCache: Scanning file cache for directory 'C:/Program Files/Epic Games/UE_4.26/Templates/SRPGF/SRPGF_JRPG/Content/Collections/' took 0.00s
+[2021.04.23-17.20.39:822][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/UE4-EditorScriptingToolsPlugin/Plugins/EditorScriptingTools/Resources/Icons/AssetThumbnailWidget_16x.png' error.
+[2021.04.23-17.20.39:822][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/UE4-EditorScriptingToolsPlugin/Plugins/EditorScriptingTools/Resources/Icons/AssetThumbnailWidget_16x.png
+[2021.04.23-17.20.39:822][  0]LogEngine: Initializing Engine...
+[2021.04.23-17.20.39:824][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.23-17.20.39:828][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.04.23-17.20.40:204][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.23-17.20.40:250][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.23-17.20.40:253][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.04.23-17.20.40:276][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.04.23-17.20.40:276][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.04.23-17.20.40:277][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.23-17.20.40:277][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.23-17.20.40:277][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.23-17.20.40:277][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.23-17.20.40:277][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.23-17.20.40:277][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.23-17.20.40:277][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.23-17.20.40:277][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.23-17.20.40:278][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.23-17.20.40:278][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.23-17.20.40:302][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.23-17.20.40:302][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.23-17.20.40:331][  0]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.04.23-17.20.40:332][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.23-17.20.40:363][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.23-17.20.40:364][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.23-17.20.40:365][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.23-17.20.40:366][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.23-17.20.40:366][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.23-17.20.40:367][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.23-17.20.40:367][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.23-17.20.40:367][  0]LogInit: FAudioDevice initialized.
+[2021.04.23-17.20.40:367][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.04.23-17.20.40:368][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.23-17.20.40:452][  0]LogDerivedDataCache: Saved boot cache 0.08s 77MB C:/Users/Jonathan/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.23-17.20.40:452][  0]LogInit: Texture streaming: Enabled
+[2021.04.23-17.20.40:525][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.04.23-17.20.40:545][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.23-17.20.40:545][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.23-17.20.40:547][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.23-17.20.40:667][  0]LogInit: Transaction tracking system initialized
+[2021.04.23-17.20.40:785][  0]BlueprintLog: New page: Editor Load
+[2021.04.23-17.20.41:255][  0]LocalizationService: Localization service is disabled
+[2021.04.23-17.20.41:406][  0]TimingProfiler: Initialize
+[2021.04.23-17.20.41:408][  0]TimingProfiler: OnSessionChanged
+[2021.04.23-17.20.41:408][  0]LoadingProfiler: Initialize
+[2021.04.23-17.20.41:408][  0]LoadingProfiler: OnSessionChanged
+[2021.04.23-17.20.41:409][  0]NetworkingProfiler: Initialize
+[2021.04.23-17.20.41:409][  0]NetworkingProfiler: OnSessionChanged
+[2021.04.23-17.20.41:409][  0]MemoryProfiler: Initialize
+[2021.04.23-17.20.41:409][  0]MemoryProfiler: OnSessionChanged
+[2021.04.23-17.20.42:204][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.04.23-17.20.42:204][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.23-17.20.43:014][  0]LogFileCache: Scanning file cache for directory 'C:/Program Files/Epic Games/UE_4.26/Templates/SRPGF/SRPGF_JRPG/Content/' took 0.01s
+[2021.04.23-17.20.43:078][  0]LogActionsEd: UMapComponent: Log Started
+[2021.04.23-17.20.43:312][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.04.23-17.20.43:319][  0]SourceControl: Source control is disabled
+[2021.04.23-17.20.43:319][  0]LogUnrealEdMisc: Loading editor; pre map load, took 27.442
+[2021.04.23-17.20.43:320][  0]Cmd: MAP LOAD FILE="../../../Templates/SRPGF/SRPGF_JRPG/Content/SRPGF2ExampleGame/Maps/TitleScreen/TitleScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.23-17.20.43:329][  0]LightingResults: New page: Lighting Build
+[2021.04.23-17.20.43:332][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.23-17.20.43:335][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.23-17.20.43:343][  0]MapCheck: New page: Map Check
+[2021.04.23-17.20.43:343][  0]LightingResults: New page: Lighting Build
+[2021.04.23-17.20.43:367][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.04.23-17.20.45:421][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\Blueprints\Modules\ZoneManagment\bpZoneSpawn.uasset: [Compiler] The node ' Action ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.20.45:421][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\Blueprints\Modules\ZoneManagment\bpZoneSpawn.uasset: [Compiler] The node ' Action ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.20.45:441][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\Blueprints\ActorComponents\Combatant\CombatantComponent.uasset: [Compiler] The node ' Action ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.20.45:453][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\Blueprints\ActorComponents\Combatant\CombatantComponent.uasset: [Compiler] The node ' Action ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.20.45:458][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\Blueprints\ActorComponents\Combatant\CombatantComponent.uasset: [Compiler] The node ' Action ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.20.45:469][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\Blueprints\ActorComponents\Combatant\CombatantComponent.uasset: [Compiler] The node ' Action ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.20.45:602][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\Blueprints\RPGGameInstance.uasset: [Compiler] The node ' Action generated from expanding New Game Setup ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.20.45:603][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\Blueprints\RPGGameInstance.uasset: [Compiler] The node ' Action generated from expanding New Game Setup ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.20.45:621][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\Blueprints\Modules\BGM\Module_Bgm.uasset: [Compiler] The node ' Action ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.20.45:663][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\Blueprints\Modules\WorldStateSystem\Module_WorldState.uasset: [Compiler] The node ' Action ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.20.45:664][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\Blueprints\Modules\WorldStateSystem\Module_WorldState.uasset: [Compiler] The node ' Action ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.20.45:675][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\Blueprints\Modules\ZoneManagment\Module_ZoneManagment.uasset: [Compiler] The node ' Action ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.20.45:675][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\Blueprints\Modules\ZoneManagment\Module_ZoneManagment.uasset: [Compiler] The node ' Action ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.20.45:681][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\Blueprints\Modules\ZoneManagment\Module_ZoneManagment.uasset: [Compiler] The node ' Action ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.20.45:742][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\Blueprints\RPGGameMode.uasset: [Compiler] The node ' Action ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.20.45:744][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\Blueprints\RPGGameMode.uasset: [Compiler] The node ' Action ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.20.45:751][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\Blueprints\RPGGameMode.uasset: [Compiler] The node ' Action ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.20.45:752][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\Blueprints\RPGGameMode.uasset: [Compiler] The node ' Action ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.20.45:790][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\Widgets\TEMPLATES\Menus\Widget_DialogueBox.uasset: [Compiler] The node ' Action generated from expanding Write Text Over Time ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.20.46:625][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TitleScreen'.
+[2021.04.23-17.20.46:627][  0]LogAIModule: Creating AISystem for world TitleScreen
+[2021.04.23-17.20.47:606][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.23-17.20.47:634][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.04.23-17.20.47:635][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.23-17.20.47:635][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.175ms to complete.
+[2021.04.23-17.20.47:635][  0]LogFileHelpers: Loading map 'TitleScreen' took 4.315
+[2021.04.23-17.20.47:657][  0]LogUnrealEdMisc: Total Editor Startup Time, took 31.779
+[2021.04.23-17.20.48:258][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.04.23-17.20.48:360][  0]LogSlate: Took 0.007749 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.23-17.20.48:935][  0]LogSlate: The tab "/Game/SuperRPGFramework/EditorTools/Database/RPG_Database.RPG_Database_ActiveTab" attempted to spawn but failed for some reason. It will not be displayed but it will still be saved in the layout settings file.
+[2021.04.23-17.20.48:935][  0]LogSlate: The tab "/Game/SuperRPGFramework/EditorTools/RPG_Database.RPG_Database_ActiveTab" attempted to spawn but failed for some reason. It will not be displayed but it will still be saved in the layout settings file.
+[2021.04.23-17.20.48:989][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.23-17.20.48:997][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.23-17.20.49:003][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.23-17.20.49:010][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.23-17.20.49:012][  0]LogSlate: The tab "/Game/SuperRPGFramework/EditorTools/Systems/RPG_Systems.RPG_Systems_ActiveTab" attempted to spawn but failed for some reason. It will not be displayed but it will still be saved in the layout settings file.
+[2021.04.23-17.20.49:012][  0]LogSlate: The tab "/Game/SuperRPGFramework/EditorTools/EnumTypes/RPG_Types.RPG_Types_ActiveTab" attempted to spawn but failed for some reason. It will not be displayed but it will still be saved in the layout settings file.
+[2021.04.23-17.20.49:013][  0]LogSlate: The tab "/Game/SuperRPGFramework/EditorTools/RPG_Systems.RPG_Systems_ActiveTab" attempted to spawn but failed for some reason. It will not be displayed but it will still be saved in the layout settings file.
+[2021.04.23-17.20.49:013][  0]LogSlate: The tab "/Game/SuperRPGFramework/EditorTools/RPG_Types.RPG_Types_ActiveTab" attempted to spawn but failed for some reason. It will not be displayed but it will still be saved in the layout settings file.
+[2021.04.23-17.20.49:293][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.23-17.20.49:293][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:293][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.23-17.20.49:294][  0]LogPakFile: OnPakFileMounted2Time == 0.000224
+[2021.04.23-17.20.49:304][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.23-17.20.49:304][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:304][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.23-17.20.49:304][  0]LogPakFile: OnPakFileMounted2Time == 0.000227
+[2021.04.23-17.20.49:311][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.04.23-17.20.49:311][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:311][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.04.23-17.20.49:311][  0]LogPakFile: OnPakFileMounted2Time == 0.000230
+[2021.04.23-17.20.49:318][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.23-17.20.49:318][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:318][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.23-17.20.49:318][  0]LogPakFile: OnPakFileMounted2Time == 0.000233
+[2021.04.23-17.20.49:325][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.23-17.20.49:325][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:325][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.23-17.20.49:325][  0]LogPakFile: OnPakFileMounted2Time == 0.000236
+[2021.04.23-17.20.49:332][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.23-17.20.49:332][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:332][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.23-17.20.49:332][  0]LogPakFile: OnPakFileMounted2Time == 0.000239
+[2021.04.23-17.20.49:338][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.23-17.20.49:338][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:338][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.23-17.20.49:338][  0]LogPakFile: OnPakFileMounted2Time == 0.000243
+[2021.04.23-17.20.49:346][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.23-17.20.49:346][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:346][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.23-17.20.49:346][  0]LogPakFile: OnPakFileMounted2Time == 0.000245
+[2021.04.23-17.20.49:354][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.23-17.20.49:354][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:355][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.23-17.20.49:355][  0]LogPakFile: OnPakFileMounted2Time == 0.000247
+[2021.04.23-17.20.49:362][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.23-17.20.49:362][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:362][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.23-17.20.49:362][  0]LogPakFile: OnPakFileMounted2Time == 0.000250
+[2021.04.23-17.20.49:368][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.23-17.20.49:368][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:368][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.23-17.20.49:368][  0]LogPakFile: OnPakFileMounted2Time == 0.000252
+[2021.04.23-17.20.49:376][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.23-17.20.49:377][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:377][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.23-17.20.49:377][  0]LogPakFile: OnPakFileMounted2Time == 0.000255
+[2021.04.23-17.20.49:383][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.23-17.20.49:383][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:383][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.23-17.20.49:383][  0]LogPakFile: OnPakFileMounted2Time == 0.000256
+[2021.04.23-17.20.49:390][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.23-17.20.49:390][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:390][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.23-17.20.49:390][  0]LogPakFile: OnPakFileMounted2Time == 0.000259
+[2021.04.23-17.20.49:397][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.23-17.20.49:397][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:397][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.23-17.20.49:397][  0]LogPakFile: OnPakFileMounted2Time == 0.000262
+[2021.04.23-17.20.49:405][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.23-17.20.49:405][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:405][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.23-17.20.49:405][  0]LogPakFile: OnPakFileMounted2Time == 0.000264
+[2021.04.23-17.20.49:415][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.23-17.20.49:415][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:415][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.23-17.20.49:415][  0]LogPakFile: OnPakFileMounted2Time == 0.000267
+[2021.04.23-17.20.49:423][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.23-17.20.49:423][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:423][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.23-17.20.49:423][  0]LogPakFile: OnPakFileMounted2Time == 0.000271
+[2021.04.23-17.20.49:431][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.23-17.20.49:431][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:431][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.23-17.20.49:431][  0]LogPakFile: OnPakFileMounted2Time == 0.000274
+[2021.04.23-17.20.49:442][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.23-17.20.49:442][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:442][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.23-17.20.49:442][  0]LogPakFile: OnPakFileMounted2Time == 0.000278
+[2021.04.23-17.20.49:449][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.23-17.20.49:450][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:450][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.23-17.20.49:450][  0]LogPakFile: OnPakFileMounted2Time == 0.000280
+[2021.04.23-17.20.49:457][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.23-17.20.49:457][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:457][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.23-17.20.49:457][  0]LogPakFile: OnPakFileMounted2Time == 0.000284
+[2021.04.23-17.20.49:464][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.04.23-17.20.49:464][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:464][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.04.23-17.20.49:464][  0]LogPakFile: OnPakFileMounted2Time == 0.000285
+[2021.04.23-17.20.49:472][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.23-17.20.49:472][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:472][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.23-17.20.49:472][  0]LogPakFile: OnPakFileMounted2Time == 0.000286
+[2021.04.23-17.20.49:480][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.23-17.20.49:480][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:480][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.23-17.20.49:480][  0]LogPakFile: OnPakFileMounted2Time == 0.000290
+[2021.04.23-17.20.49:488][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.23-17.20.49:488][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.23-17.20.49:488][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.23-17.20.49:488][  0]LogPakFile: OnPakFileMounted2Time == 0.000293
+[2021.04.23-17.20.49:816][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0125 seconds. Added 3701 classes and 893 folders.
+[2021.04.23-17.20.49:820][  0]LogSlate: The tab "/SuperRPGFramework2/EditorTools/Database/DataBaseEditor.DataBaseEditor_ActiveTab" attempted to spawn but failed for some reason. It will not be displayed but it will still be saved in the layout settings file.
+[2021.04.23-17.20.49:823][  0]LogSlate: The tab "DALaunchPadApp" attempted to spawn but failed for some reason. It will not be displayed but it will still be saved in the layout settings file.
+[2021.04.23-17.20.50:103][  0]LogSlate: Took 0.007185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.23-17.20.50:115][  0]LogSlate: Took 0.007946 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.23-17.20.50:294][  0]LogRenderer: Reallocating scene render targets to support 1464x892 Format 9 NumSamples 1 (Frame:1).
+[2021.04.23-17.20.50:478][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.23-17.20.50:480][  0]LogLoad: (Engine Initialization) Total time: 34.60 seconds
+[2021.04.23-17.20.50:480][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.23-17.20.50:480][  0]LogInit: First time updating LLM stats...
+[2021.04.23-17.20.51:174][  0]LogAssetRegistry: Asset discovery search completed in 19.7151 seconds
+[2021.04.23-17.20.51:178][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.04.23-17.20.51:220][  0]LogContentStreaming: Texture pool size now 800 MB
+[2021.04.23-17.20.51:348][  1]LogRenderer: Reallocating scene render targets to support 1464x912 Format 9 NumSamples 1 (Frame:2).
+[2021.04.23-17.21.11:808][426]Cmd: POLY SELECT ADJACENT WALLS
+[2021.04.23-17.21.37:168][259]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.23-17.21.37:178][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.23-17.21.37:181][259]PIE: New page: PIE session: TitleScreen (Apr 23, 2021, 9:21:37 AM)
+[2021.04.23-17.21.37:185][259]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.23-17.21.37:187][259]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.23-17.21.37:511][259]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\SkeletalMesh\Mannequin\Animations\apb_man_field.uasset: Failed to load '/Game/SolGaiaDemo/Animations/Mannequin/abs_Locomotion': Can't find file.
+[2021.04.23-17.21.37:512][259]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\SkeletalMesh\Mannequin\Animations\apb_man_field.uasset: Failed to load '/Game/SolGaiaDemo/Animations/Mannequin/abs_Locomotion': Can't find file.
+[2021.04.23-17.21.37:574][259]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\SkeletalMesh\Mannequin\Animations\apb_man_field.uasset: Failed to load '/Game/SolGaiaDemo/Animations/Mannequin/abs_Locomotion': Can't find file.
+[2021.04.23-17.21.37:577][259]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\Blueprints\Actors\Character\RPGCharacter.uasset: Failed to load '/Game/SolGaiaDemo/Animations/Mannequin/abs_Locomotion': Can't find file.
+[2021.04.23-17.21.37:577][259]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\Blueprints\Actors\Character\RPGCharacter.uasset: Failed to load '/Game/SolGaiaDemo/Animations/Mannequin/abs_Locomotion': Can't find file.
+[2021.04.23-17.21.37:578][259]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\Blueprints\Actors\Character\RPGCharacter.uasset: Failed to load '/Game/SolGaiaDemo/Animations/Mannequin/abs_Locomotion': Can't find file.
+[2021.04.23-17.21.37:578][259]LoadErrors: Failed to load /Game/SolGaiaDemo/Animations/Mannequin/abs_Locomotion.abs_Locomotion Referenced by Default__apb_man_field_C
+[2021.04.23-17.21.38:137][259]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SRPGF2_Plugins\SRPGF_TurnBasedCombat\Content\TurnBased_BattleSystem.uasset: [Compiler] The node ' Action ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.21.38:138][259]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SRPGF2_Plugins\SRPGF_TurnBasedCombat\Content\TurnBased_BattleSystem.uasset: [Compiler] The node ' Action ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.21.38:139][259]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SRPGF2_Plugins\SRPGF_TurnBasedCombat\Content\TurnBased_BattleSystem.uasset: [Compiler] The node ' Action generated from expanding Play Sequence ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.21.39:310][259]LogPlayLevel: Creating play world package: /Game/SRPGF2ExampleGame/Maps/TitleScreen/UEDPIE_0_TitleScreen
+[2021.04.23-17.21.39:339][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028315s)
+[2021.04.23-17.21.39:339][259]LogAIModule: Creating AISystem for world TitleScreen
+[2021.04.23-17.21.39:340][259]LogPlayLevel: PIE: World Init took: (0.001471s)
+[2021.04.23-17.21.39:340][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SRPGF2ExampleGame/Maps/TitleScreen/TitleScreen.TitleScreen to /Game/SRPGF2ExampleGame/Maps/TitleScreen/UEDPIE_0_TitleScreen.TitleScreen (0.029942s)
+[2021.04.23-17.21.39:352][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.04.23-17.21.39:445][259]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.04.23-17.21.39:445][259]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.23-17.21.39:445][259]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.23-17.21.39:445][259]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.23-17.21.39:445][259]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.23-17.21.39:445][259]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.23-17.21.39:445][259]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.23-17.21.39:445][259]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.23-17.21.39:445][259]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.23-17.21.39:446][259]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.23-17.21.39:446][259]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.23-17.21.39:453][259]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.23-17.21.39:453][259]LogAudioMixer: Display: 1: FrontRight
+[2021.04.23-17.21.39:464][259]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.04.23-17.21.39:464][259]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.23-17.21.39:464][259]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.23-17.21.39:464][259]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.23-17.21.39:464][259]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.23-17.21.39:464][259]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.23-17.21.39:464][259]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.23-17.21.39:476][259]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.23-17.21.39:476][259]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.23-17.21.39:476][259]LogInit: FAudioDevice initialized.
+[2021.04.23-17.21.39:476][259]LogAudio: Display: Audio Device (ID: 2) registered with world 'TitleScreen'.
+[2021.04.23-17.21.39:485][259]LogLoad: Game class is 'RPGGameMode_C'
+[2021.04.23-17.21.39:493][259]LogWorld: Bringing World /Game/SRPGF2ExampleGame/Maps/TitleScreen/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2021.04.23-13.21.39
+[2021.04.23-17.21.39:494][259]LogWorld: Bringing up level for play took: 0.002196
+[2021.04.23-17.21.39:495][259]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.04.23-17.21.39:510][259]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.04.23-17.21.39:518][259]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.04.23-17.21.39:520][259]PIE: Server logged in
+[2021.04.23-17.21.39:522][259]PIE: Play in editor total start time 2.346 seconds.
+[2021.04.23-17.21.39:567][259]LogSlate: Took 0.008286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.04.23-17.21.39:591][260]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.23-17.21.39:591][260]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.04.23-17.21.39:591][260]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.04.23-17.21.44:370][826]LogNet: Browse: /Game/SRPGF2ExampleGame/Maps/Locations/ExampleMap
+[2021.04.23-17.21.44:370][826]LogLoad: LoadMap: /Game/SRPGF2ExampleGame/Maps/Locations/ExampleMap
+[2021.04.23-17.21.44:370][826]LogWorld: BeginTearingDown for /Game/SRPGF2ExampleGame/Maps/TitleScreen/UEDPIE_0_TitleScreen
+[2021.04.23-17.21.44:371][826]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.04.23-17.21.44:372][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.23-17.21.44:411][826]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.23-17.21.44:418][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.04.23-17.21.44:632][826]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\SyndiCatUE4Plugins\SuperRPGFramework2\Content\Framework\Blueprints\Misc\MontageSelectors\mFromCombatantAction.uasset: [Compiler] SKEL_CombatantComponent_C.Action Animations is private and not accessible in this context. Please fix mark up or cease accessing as this will be an error in a future release.  Get Action Animations
+[2021.04.23-17.21.45:450][826]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Templates\SRPGF\SRPGF_JRPG\Content\SRPGF2ExampleGame\Menus\Menu_SaveLoadGame.uasset: [Compiler] The node ' Action generated from expanding Confirmation ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.21.45:451][826]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Templates\SRPGF\SRPGF_JRPG\Content\SRPGF2ExampleGame\Menus\Menu_SaveLoadGame.uasset: [Compiler] The node ' Action generated from expanding Confirmation ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.21.45:497][826]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Templates\SRPGF\SRPGF_JRPG\Content\SRPGF2ExampleGame\Menus\Menu_PauseMenu.uasset: [Compiler] The node ' Action generated from expanding Open Menu ' is from an Editor Only module, but is placed in a runtime blueprint! K2 Nodes should only be defined in a Developer or UncookedOnly module.
+[2021.04.23-17.21.45:708][826]LogAudio: Display: Audio Device (ID: 2) registered with world 'ExampleMap'.
+[2021.04.23-17.21.45:708][826]LogAIModule: Creating AISystem for world ExampleMap
+[2021.04.23-17.21.45:709][826]LogLoad: Game class is 'GM_Default_C'
+[2021.04.23-17.21.45:735][826]LogWorld: Bringing World /Game/SRPGF2ExampleGame/Maps/Locations/UEDPIE_0_ExampleMap.ExampleMap up for play (max tick rate 0) at 2021.04.23-13.21.45
+[2021.04.23-17.21.45:741][826]LogWorld: Bringing up level for play took: 0.030893
+[2021.04.23-17.21.45:741][826]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.04.23-17.21.45:744][826]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.04.23-17.21.45:744][826]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.04.23-17.21.45:746][826]LogLoad: Took 1.377035 seconds to LoadMap(/Game/SRPGF2ExampleGame/Maps/Locations/ExampleMap)
+[2021.04.23-17.21.59:505][469]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.23-17.21.59:505][469]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.04.23-17.22.52:759][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.23-17.22.52:759][850]LogWorld: BeginTearingDown for /Game/SRPGF2ExampleGame/Maps/Locations/UEDPIE_0_ExampleMap
+[2021.04.23-17.22.52:761][850]LogWorld: UWorld::CleanupWorld for ExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.23-17.22.52:762][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.23-17.22.52:773][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.23-17.22.52:777][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.23-17.22.52:782][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.23-17.22.52:783][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.23-17.22.52:784][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.23-17.22.52:805][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.04.23-17.22.52:850][852]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.04.23-17.24.40:084][442]LogSlate: Took 0.007327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.23-17.24.40:107][442]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /SRPGF_TurnBasedCombat/TurnBased_Encounter.TurnBased_Encounter
+[2021.04.23-17.24.40:984][442]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.04.23-17.24.42:770][442]LogSlate: Took 0.006905 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.23-17.24.43:078][443]LogSlate: Took 0.006856 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.23-17.24.46:184][674]LogLinker: Warning: Failed to load '/SuperRPGFramework2/RPGFramework/Blueprints/Misc/MontageSelectors/mFromAsset': Can't find file.
+[2021.04.23-17.24.46:184][674]LogLinker: Warning: Failed to load '/SuperRPGFramework2/RPGFramework/Blueprints/Misc/MontageSelectors/mFromAsset': Can't find file.
+[2021.04.23-17.24.46:184][674]LogUObjectGlobals: Warning: Failed to find object 'Object /SuperRPGFramework2/RPGFramework/Blueprints/Misc/MontageSelectors/mFromAsset.mFromAsset_C'
+[2021.04.23-17.24.46:185][674]LogLinker: Warning: Failed to load '/SuperRPGFramework2/RPGFramework/Blueprints/Misc/ActionSequenceSelectors/sFromAsset': Can't find file.
+[2021.04.23-17.24.46:185][674]LogLinker: Warning: Failed to load '/SuperRPGFramework2/RPGFramework/Blueprints/Misc/ActionSequenceSelectors/sFromAsset': Can't find file.
+[2021.04.23-17.24.46:185][674]LogUObjectGlobals: Warning: Failed to find object 'Object /SuperRPGFramework2/RPGFramework/Blueprints/Misc/ActionSequenceSelectors/sFromAsset.sFromAsset_C'
+[2021.04.23-17.25.13:356][836]BlueprintLog: New page: Compile TurnBased_Encounter
+[2021.04.23-17.25.13:420][836]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.04.23-17.25.13:775][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/SRPGF_TurnBasedCombat/TurnBased_Encounter" FILE="../../Plugins/SyndiCatUE4Plugins/SRPGF2_Plugins/SRPGF_TurnBasedCombat/Content/TurnBased_Encounter.uasset" SILENT=true
+[2021.04.23-17.25.13:798][861]LogSavePackage: Moving '../../../Templates/SRPGF/SRPGF_JRPG/Saved/TurnBased_Encounter687DE83847B95AC99911B9B7192D6836.tmp' to '../../Plugins/SyndiCatUE4Plugins/SRPGF2_Plugins/SRPGF_TurnBasedCombat/Content/TurnBased_Encounter.uasset'
+[2021.04.23-17.25.13:819][861]AssetCheck: New page: Asset Save: TurnBased_Encounter
+[2021.04.23-17.25.13:819][861]LogContentValidation: Display: Validating Blueprint /SRPGF_TurnBasedCombat/TurnBased_Encounter.TurnBased_Encounter
+[2021.04.23-17.25.14:384][914]LogSlate: Window 'TurnBased_Encounter' being destroyed
+[2021.04.23-17.25.14:387][914]LogSlate: Window 'TurnBased_Encounter' being destroyed
+[2021.04.23-17.25.14:438][914]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.04.23-17.25.14:438][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.23-17.25.15:488][ 25]LogEditorViewport: Clicking Background
+[2021.04.23-17.25.15:811][ 63]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.23-17.25.15:818][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.23-17.25.15:818][ 63]PIE: New page: PIE session: TitleScreen (Apr 23, 2021, 9:25:15 AM)
+[2021.04.23-17.25.15:848][ 63]LogPlayLevel: Creating play world package: /Game/SRPGF2ExampleGame/Maps/TitleScreen/UEDPIE_0_TitleScreen
+[2021.04.23-17.25.15:864][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016474s)
+[2021.04.23-17.25.15:865][ 63]LogAIModule: Creating AISystem for world TitleScreen
+[2021.04.23-17.25.15:865][ 63]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2021.04.23-17.25.15:865][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SRPGF2ExampleGame/Maps/TitleScreen/TitleScreen.TitleScreen to /Game/SRPGF2ExampleGame/Maps/TitleScreen/UEDPIE_0_TitleScreen.TitleScreen (0.017479s)
+[2021.04.23-17.25.15:887][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.04.23-17.25.15:894][ 63]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.04.23-17.25.15:894][ 63]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.23-17.25.15:894][ 63]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.23-17.25.15:894][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.23-17.25.15:894][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.23-17.25.15:894][ 63]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.23-17.25.15:894][ 63]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.23-17.25.15:894][ 63]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.23-17.25.15:894][ 63]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.23-17.25.15:894][ 63]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.23-17.25.15:894][ 63]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.23-17.25.15:902][ 63]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.23-17.25.15:902][ 63]LogAudioMixer: Display: 1: FrontRight
+[2021.04.23-17.25.15:912][ 63]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.04.23-17.25.15:912][ 63]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.23-17.25.15:912][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.23-17.25.15:912][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.23-17.25.15:913][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.23-17.25.15:913][ 63]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.23-17.25.15:913][ 63]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.23-17.25.15:924][ 63]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.23-17.25.15:924][ 63]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.23-17.25.15:924][ 63]LogInit: FAudioDevice initialized.
+[2021.04.23-17.25.15:924][ 63]LogAudio: Display: Audio Device (ID: 3) registered with world 'TitleScreen'.
+[2021.04.23-17.25.15:928][ 63]LogLoad: Game class is 'RPGGameMode_C'
+[2021.04.23-17.25.15:930][ 63]LogWorld: Bringing World /Game/SRPGF2ExampleGame/Maps/TitleScreen/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2021.04.23-13.25.15
+[2021.04.23-17.25.15:930][ 63]LogWorld: Bringing up level for play took: 0.001289
+[2021.04.23-17.25.15:930][ 63]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.04.23-17.25.15:932][ 63]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.04.23-17.25.15:932][ 63]PIE: Server logged in
+[2021.04.23-17.25.15:933][ 63]PIE: Play in editor total start time 0.116 seconds.
+[2021.04.23-17.25.16:009][ 71]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.23-17.25.16:009][ 71]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.04.23-17.25.16:009][ 71]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.04.23-17.25.17:487][248]LogNet: Browse: /Game/SRPGF2ExampleGame/Maps/Locations/ExampleMap
+[2021.04.23-17.25.17:487][248]LogLoad: LoadMap: /Game/SRPGF2ExampleGame/Maps/Locations/ExampleMap
+[2021.04.23-17.25.17:487][248]LogWorld: BeginTearingDown for /Game/SRPGF2ExampleGame/Maps/TitleScreen/UEDPIE_0_TitleScreen
+[2021.04.23-17.25.17:487][248]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.04.23-17.25.17:488][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.23-17.25.17:533][248]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.23-17.25.17:538][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.04.23-17.25.17:556][248]LogAudio: Display: Audio Device (ID: 3) registered with world 'ExampleMap'.
+[2021.04.23-17.25.17:557][248]LogAIModule: Creating AISystem for world ExampleMap
+[2021.04.23-17.25.17:557][248]LogLoad: Game class is 'GM_Default_C'
+[2021.04.23-17.25.17:565][248]LogWorld: Bringing World /Game/SRPGF2ExampleGame/Maps/Locations/UEDPIE_0_ExampleMap.ExampleMap up for play (max tick rate 0) at 2021.04.23-13.25.17
+[2021.04.23-17.25.17:565][248]LogWorld: Bringing up level for play took: 0.008019
+[2021.04.23-17.25.17:566][248]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.04.23-17.25.17:568][248]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.04.23-17.25.17:568][248]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.04.23-17.25.17:568][248]LogLoad: Took 0.081323 seconds to LoadMap(/Game/SRPGF2ExampleGame/Maps/Locations/ExampleMap)
+[2021.04.23-17.25.23:642][971]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.23-17.25.23:642][971]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.04.23-17.26.17:381][411]LogBlueprintUserMessages: [CombatAction_Attack_C_0] am_combat_attack
+[2021.04.23-17.26.18:410][534]LogBlueprintUserMessages: [BattleSystem_ExampleJRPG_C_0] ActionComplete
+[2021.04.23-17.26.20:400][773]LogBlueprintUserMessages: [CombatAction_Attack_C_1] am_combat_attack
+[2021.04.23-17.26.21:425][896]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2021.04.23-17.26.21:425][896]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem_1
+	BattleSystem_ExampleJRPG_C /Game/SRPGF2ExampleGame/Maps/Locations/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.BattleSystem_ExampleJRPG_C_0
+	Function /Game/SRPGF2ExampleGame/Blueprints/Combat/BattleSystem_ExampleJRPG.BattleSystem_ExampleJRPG_C:ExecuteUbergraph_BattleSystem_ExampleJRPG:03DF
+[2021.04.23-17.26.21:426][896]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem_1". Blueprint:  BattleSystem_ExampleJRPG Function:  Execute Ubergraph Battle System Example JRPG Graph:  EnemyTurn Node:  Use Skill
+[2021.04.23-17.26.21:426][896]LogScript: Warning: Accessed None trying to read property Skill
+	BattleSystem_ExampleJRPG_C /Game/SRPGF2ExampleGame/Maps/Locations/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.BattleSystem_ExampleJRPG_C_0
+	Function /SRPGF_TurnBasedCombat/TurnBased_BattleSystem.TurnBased_BattleSystem_C:UseSkill:0028
+[2021.04.23-17.26.21:426][896]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Skill". Blueprint:  TurnBased_BattleSystem Function:  Use Skill Graph:  UseSkill Node:  Cast To TurnBasedAction Class
+[2021.04.23-17.26.21:427][896]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2021.04.23-17.26.21:427][896]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem_1
+	BattleSystem_ExampleJRPG_C /Game/SRPGF2ExampleGame/Maps/Locations/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.BattleSystem_ExampleJRPG_C_0
+	Function /Game/SRPGF2ExampleGame/Blueprints/Combat/BattleSystem_ExampleJRPG.BattleSystem_ExampleJRPG_C:ExecuteUbergraph_BattleSystem_ExampleJRPG:03DF
+[2021.04.23-17.26.21:427][896]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem_1". Blueprint:  BattleSystem_ExampleJRPG Function:  Execute Ubergraph Battle System Example JRPG Graph:  EnemyTurn Node:  Use Skill
+[2021.04.23-17.26.21:427][896]LogScript: Warning: Accessed None trying to read property Skill
+	BattleSystem_ExampleJRPG_C /Game/SRPGF2ExampleGame/Maps/Locations/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.BattleSystem_ExampleJRPG_C_0
+	Function /SRPGF_TurnBasedCombat/TurnBased_BattleSystem.TurnBased_BattleSystem_C:UseSkill:0028
+[2021.04.23-17.26.21:427][896]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Skill". Blueprint:  TurnBased_BattleSystem Function:  Use Skill Graph:  UseSkill Node:  Cast To TurnBasedAction Class
+[2021.04.23-17.26.21:427][896]LogBlueprintUserMessages: [BattleSystem_ExampleJRPG_C_0] ActionComplete
+[2021.04.23-17.26.23:229][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.23-17.26.23:229][108]LogWorld: BeginTearingDown for /Game/SRPGF2ExampleGame/Maps/Locations/UEDPIE_0_ExampleMap
+[2021.04.23-17.26.23:230][108]LogWorld: UWorld::CleanupWorld for ExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.23-17.26.23:231][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.23-17.26.23:238][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.23-17.26.23:242][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.23-17.26.23:259][108]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.23-17.26.23:259][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.23-17.26.23:260][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.23-17.26.23:273][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.23-17.26.23:277][108]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.04.23-17.26.23:398][109]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.04.23-17.26.25:280][300]LogSlate: Window 'Message Log' being destroyed
+[2021.04.23-17.26.25:293][300]LogSlate: Window 'Message Log' being destroyed
+[2021.04.23-17.32.31:855][168]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.23-17.32.31:862][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.23-17.32.31:862][168]PIE: New page: PIE session: TitleScreen (Apr 23, 2021, 9:32:31 AM)
+[2021.04.23-17.32.31:862][168]LogPlayLevel: Creating play world package: /Game/SRPGF2ExampleGame/Maps/TitleScreen/UEDPIE_0_TitleScreen
+[2021.04.23-17.32.31:879][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016787s)
+[2021.04.23-17.32.31:880][168]LogAIModule: Creating AISystem for world TitleScreen
+[2021.04.23-17.32.31:881][168]LogPlayLevel: PIE: World Init took: (0.001581s)
+[2021.04.23-17.32.31:881][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SRPGF2ExampleGame/Maps/TitleScreen/TitleScreen.TitleScreen to /Game/SRPGF2ExampleGame/Maps/TitleScreen/UEDPIE_0_TitleScreen.TitleScreen (0.018515s)
+[2021.04.23-17.32.31:899][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.04.23-17.32.31:911][168]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.04.23-17.32.31:911][168]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.23-17.32.31:911][168]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.23-17.32.31:911][168]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.23-17.32.31:911][168]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.23-17.32.31:911][168]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.23-17.32.31:911][168]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.23-17.32.31:911][168]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.23-17.32.31:911][168]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.23-17.32.31:912][168]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.23-17.32.31:912][168]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.23-17.32.31:919][168]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.23-17.32.31:919][168]LogAudioMixer: Display: 1: FrontRight
+[2021.04.23-17.32.31:930][168]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.04.23-17.32.31:930][168]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.23-17.32.31:930][168]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.23-17.32.31:930][168]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.23-17.32.31:930][168]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.23-17.32.31:930][168]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.23-17.32.31:930][168]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.23-17.32.31:942][168]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.23-17.32.31:942][168]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.23-17.32.31:942][168]LogInit: FAudioDevice initialized.
+[2021.04.23-17.32.31:942][168]LogAudio: Display: Audio Device (ID: 4) registered with world 'TitleScreen'.
+[2021.04.23-17.32.31:949][168]LogLoad: Game class is 'RPGGameMode_C'
+[2021.04.23-17.32.31:951][168]LogWorld: Bringing World /Game/SRPGF2ExampleGame/Maps/TitleScreen/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2021.04.23-13.32.31
+[2021.04.23-17.32.31:951][168]LogWorld: Bringing up level for play took: 0.001364
+[2021.04.23-17.32.31:951][168]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.04.23-17.32.31:954][168]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.04.23-17.32.31:954][168]PIE: Server logged in
+[2021.04.23-17.32.31:954][168]PIE: Play in editor total start time 0.093 seconds.
+[2021.04.23-17.32.32:054][179]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.23-17.32.32:054][179]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.04.23-17.32.32:054][179]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.04.23-17.32.34:056][419]LogNet: Browse: /Game/SRPGF2ExampleGame/Maps/Locations/ExampleMap
+[2021.04.23-17.32.34:056][419]LogLoad: LoadMap: /Game/SRPGF2ExampleGame/Maps/Locations/ExampleMap
+[2021.04.23-17.32.34:056][419]LogWorld: BeginTearingDown for /Game/SRPGF2ExampleGame/Maps/TitleScreen/UEDPIE_0_TitleScreen
+[2021.04.23-17.32.34:057][419]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.04.23-17.32.34:057][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.23-17.32.34:108][419]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.23-17.32.34:111][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.04.23-17.32.34:123][419]LogAudio: Display: Audio Device (ID: 4) registered with world 'ExampleMap'.
+[2021.04.23-17.32.34:124][419]LogAIModule: Creating AISystem for world ExampleMap
+[2021.04.23-17.32.34:124][419]LogLoad: Game class is 'GM_Default_C'
+[2021.04.23-17.32.34:133][419]LogWorld: Bringing World /Game/SRPGF2ExampleGame/Maps/Locations/UEDPIE_0_ExampleMap.ExampleMap up for play (max tick rate 0) at 2021.04.23-13.32.34
+[2021.04.23-17.32.34:133][419]LogWorld: Bringing up level for play took: 0.008221
+[2021.04.23-17.32.34:133][419]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.04.23-17.32.34:135][419]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.04.23-17.32.34:135][419]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.04.23-17.32.34:136][419]LogLoad: Took 0.080031 seconds to LoadMap(/Game/SRPGF2ExampleGame/Maps/Locations/ExampleMap)
+[2021.04.23-17.33.22:016][159]LogScript: Warning: Script Msg: Divide by zero detected: -100.000000 / 0
+Script call stack:
+	Function /Game/SRPGF2ExampleGame/Menus/Menu_PauseMenu.Menu_PauseMenu_C:Construct
+	Function /Game/SRPGF2ExampleGame/Menus/Menu_PauseMenu.Menu_PauseMenu_C:ExecuteUbergraph_Menu_PauseMenu
+	Function /SuperRPGFramework2/Framework/Widgets/TEMPLATES/Selector/Selector_Unit.Selector_Unit_C:Create Unit List
+	Function /SuperRPGFramework2/Framework/Widgets/TEMPLATES/Selector/Selector_Unit.Selector_Unit_C:Add Unit to List
+	Function /SuperRPGFramework2/Framework/Widgets/TEMPLATES/Entities/Entity_Unit.Entity_Unit_C:Set Unit
+	Function /SuperRPGFramework2/Framework/Widgets/Elements/Widget_UnitXPMeter.Widget_UnitXPMeter_C:Update Stats
+
+[2021.04.23-17.33.22:016][159]LogScript: Warning: Script Msg: Divide by zero detected: -100.000000 / 0
+Script call stack:
+	Function /SuperRPGFramework2/Framework/Widgets/Elements/Widget_UnitXPMeter.Widget_UnitXPMeter_C:Construct
+	Function /SuperRPGFramework2/Framework/Widgets/Elements/Widget_UnitXPMeter.Widget_UnitXPMeter_C:ExecuteUbergraph_Widget_UnitXPMeter
+	Function /SuperRPGFramework2/Framework/Widgets/Elements/Widget_UnitXPMeter.Widget_UnitXPMeter_C:Update Stats
+
+[2021.04.23-17.33.22:016][159]LogScript: Warning: Script Msg: Divide by zero detected: -100.000000 / 0
+Script call stack:
+	Function /Game/SRPGF2ExampleGame/Menus/Menu_PauseMenu.Menu_PauseMenu_C:Construct
+	Function /Game/SRPGF2ExampleGame/Menus/Menu_PauseMenu.Menu_PauseMenu_C:ExecuteUbergraph_Menu_PauseMenu
+	Function /SuperRPGFramework2/Framework/Widgets/TEMPLATES/Selector/Selector_Unit.Selector_Unit_C:Create Unit List
+	Function /SuperRPGFramework2/Framework/Widgets/TEMPLATES/Selector/Selector_Unit.Selector_Unit_C:Add Unit to List
+	Function /SuperRPGFramework2/Framework/Widgets/TEMPLATES/Entities/Entity_Unit.Entity_Unit_C:Set Unit
+	Function /SuperRPGFramework2/Framework/Widgets/Elements/Widget_UnitXPMeter.Widget_UnitXPMeter_C:Update Stats
+
+[2021.04.23-17.33.22:016][159]LogScript: Warning: Script Msg: Divide by zero detected: -100.000000 / 0
+Script call stack:
+	Function /SuperRPGFramework2/Framework/Widgets/Elements/Widget_UnitXPMeter.Widget_UnitXPMeter_C:Construct
+	Function /SuperRPGFramework2/Framework/Widgets/Elements/Widget_UnitXPMeter.Widget_UnitXPMeter_C:ExecuteUbergraph_Widget_UnitXPMeter
+	Function /SuperRPGFramework2/Framework/Widgets/Elements/Widget_UnitXPMeter.Widget_UnitXPMeter_C:Update Stats
+
+[2021.04.23-17.33.22:016][159]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.23-17.33.22:016][159]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.04.23-17.33.22:442][210]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.04.23-17.33.22:442][210]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.04.23-17.34.11:286][244]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Registered Interactables' of length 0 in '/SuperRPGFramework2/Framework/Blueprints/ActorComponents/Interaction/sc_InteractableSensor.sc_InteractableSensor_C'!
+[2021.04.23-17.34.12:546][395]LogScript: Warning: Script Msg: Divide by zero detected: -100.000000 / 0
+Script call stack:
+	Function /SuperRPGFramework2/Framework/Widgets/Elements/Widget_UnitXPMeter.Widget_UnitXPMeter_C:Construct
+	Function /SuperRPGFramework2/Framework/Widgets/Elements/Widget_UnitXPMeter.Widget_UnitXPMeter_C:ExecuteUbergraph_Widget_UnitXPMeter
+	Function /SuperRPGFramework2/Framework/Widgets/Elements/Widget_UnitXPMeter.Widget_UnitXPMeter_C:Update Stats
+
+[2021.04.23-17.34.12:547][395]LogScript: Warning: Script Msg: Divide by zero detected: -100.000000 / 0
+Script call stack:
+	Function /SuperRPGFramework2/Framework/Widgets/Elements/Widget_UnitXPMeter.Widget_UnitXPMeter_C:Construct
+	Function /SuperRPGFramework2/Framework/Widgets/Elements/Widget_UnitXPMeter.Widget_UnitXPMeter_C:ExecuteUbergraph_Widget_UnitXPMeter
+	Function /SuperRPGFramework2/Framework/Widgets/Elements/Widget_UnitXPMeter.Widget_UnitXPMeter_C:Update Stats
+
+[2021.04.23-17.34.12:547][395]LogScript: Warning: Script Msg: Divide by zero detected: -100.000000 / 0
+Script call stack:
+	Function /Game/SRPGF2ExampleGame/Menus/Menu_PauseMenu.Menu_PauseMenu_C:Construct
+	Function /Game/SRPGF2ExampleGame/Menus/Menu_PauseMenu.Menu_PauseMenu_C:ExecuteUbergraph_Menu_PauseMenu
+	Function /SuperRPGFramework2/Framework/Widgets/TEMPLATES/Selector/Selector_Unit.Selector_Unit_C:Create Unit List
+	Function /SuperRPGFramework2/Framework/Widgets/TEMPLATES/Selector/Selector_Unit.Selector_Unit_C:Add Unit to List
+	Function /SuperRPGFramework2/Framework/Widgets/TEMPLATES/Entities/Entity_Unit.Entity_Unit_C:Set Unit
+	Function /SuperRPGFramework2/Framework/Widgets/Elements/Widget_UnitXPMeter.Widget_UnitXPMeter_C:Update Stats
+
+[2021.04.23-17.34.12:548][395]LogScript: Warning: Script Msg: Divide by zero detected: -100.000000 / 0
+Script call stack:
+	Function /SuperRPGFramework2/Framework/Widgets/Elements/Widget_UnitXPMeter.Widget_UnitXPMeter_C:Construct
+	Function /SuperRPGFramework2/Framework/Widgets/Elements/Widget_UnitXPMeter.Widget_UnitXPMeter_C:ExecuteUbergraph_Widget_UnitXPMeter
+	Function /SuperRPGFramework2/Framework/Widgets/Elements/Widget_UnitXPMeter.Widget_UnitXPMeter_C:Update Stats
+
+[2021.04.23-17.34.12:548][395]LogScript: Warning: Script Msg: Divide by zero detected: -100.000000 / 0
+Script call stack:
+	Function /Game/SRPGF2ExampleGame/Menus/Menu_PauseMenu.Menu_PauseMenu_C:Construct
+	Function /Game/SRPGF2ExampleGame/Menus/Menu_PauseMenu.Menu_PauseMenu_C:ExecuteUbergraph_Menu_PauseMenu
+	Function /SuperRPGFramework2/Framework/Widgets/TEMPLATES/Selector/Selector_Unit.Selector_Unit_C:Create Unit List
+	Function /SuperRPGFramework2/Framework/Widgets/TEMPLATES/Selector/Selector_Unit.Selector_Unit_C:Add Unit to List
+	Function /SuperRPGFramework2/Framework/Widgets/TEMPLATES/Entities/Entity_Unit.Entity_Unit_C:Set Unit
+	Function /SuperRPGFramework2/Framework/Widgets/Elements/Widget_UnitXPMeter.Widget_UnitXPMeter_C:Update Stats
+
+[2021.04.23-17.34.12:548][395]LogScript: Warning: Script Msg: Divide by zero detected: -100.000000 / 0
+Script call stack:
+	Function /SuperRPGFramework2/Framework/Widgets/Elements/Widget_UnitXPMeter.Widget_UnitXPMeter_C:Construct
+	Function /SuperRPGFramework2/Framework/Widgets/Elements/Widget_UnitXPMeter.Widget_UnitXPMeter_C:ExecuteUbergraph_Widget_UnitXPMeter
+	Function /SuperRPGFramework2/Framework/Widgets/Elements/Widget_UnitXPMeter.Widget_UnitXPMeter_C:Update Stats
+
+[2021.04.23-17.34.12:548][395]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.23-17.34.12:548][395]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.04.23-17.34.13:327][486]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.04.23-17.34.13:327][486]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.04.23-17.36.01:006][603]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.23-17.36.01:006][603]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.04.23-17.38.21:317][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.23-17.38.21:318][113]LogWorld: BeginTearingDown for /Game/SRPGF2ExampleGame/Maps/Locations/UEDPIE_0_ExampleMap
+[2021.04.23-17.38.21:318][113]LogWorld: UWorld::CleanupWorld for ExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.23-17.38.21:319][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.23-17.38.21:326][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.23-17.38.21:331][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.23-17.38.21:347][113]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.23-17.38.21:347][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.23-17.38.21:348][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.23-17.38.21:361][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.23-17.38.21:366][113]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.04.23-17.38.21:392][115]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.04.23-17.38.27:246][199]LogAudioMixer: Resetting audio stream to device id 
+[2021.04.23-17.38.27:279][199]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.23-17.38.27:279][199]LogAudioMixer: Display: 1: FrontRight
+[2021.04.23-17.44.10:174][205]LogAudioMixer: Resetting audio stream to device id 
+[2021.04.23-17.44.11:438][205]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.23-17.44.11:438][205]LogAudioMixer: Display: 1: FrontRight
+[2021.04.23-17.44.12:021][206]LogHttp: Warning: 00000250733A8100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F6C7401-4F8B-51CD-442A-93841FBBF3D4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=6e29459545365bac0b439ba5ba8e8750%7Ccb8d644ae18240319d545511ef5466d1%7C515dbd03-3da8-4f14-9491-dfcb09930106&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.04.23-17.44.12:021][206]LogHttp: Warning: 00000250733A8100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.04.23-17.44.12:021][206]LogHttp: Warning: 00000250733A8100: libcurl info message cache 0 (Connection 0 seems to be dead!)
+[2021.04.23-17.44.12:022][206]LogHttp: Warning: 00000250733A8100: libcurl info message cache 1 (Closing connection 0)
+[2021.04.23-17.44.12:022][206]LogHttp: Warning: 00000250733A8100: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.04.23-17.44.12:022][206]LogHttp: Warning: 00000250733A8100: libcurl info message cache 3 (Closing connection 1)
+[2021.04.23-17.44.12:022][206]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F6C7401-4F8B-51CD-442A-93841FBBF3D4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=6e29459545365bac0b439ba5ba8e8750%7Ccb8d644ae18240319d545511ef5466d1%7C515dbd03-3da8-4f14-9491-dfcb09930106&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.04.23-17.44.12:035][206]LogAudioMixer: Resetting audio stream to device id 
+[2021.04.23-17.44.12:144][206]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.23-17.44.12:144][206]LogAudioMixer: Display: 1: FrontRight
+[2021.04.23-23.16.41:285][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.04.23-23.16.41:412][173]LogSavePackage: Moving '../../../Templates/SRPGF/SRPGF_JRPG/Saved/TitleScreen1655F7F848BF2308BCABCFBC376755E5.tmp' to '../../../Templates/SRPGF/SRPGF_JRPG/Content/SRPGF2ExampleGame/Maps/TitleScreen/TitleScreen.umap'
+[2021.04.23-23.16.41:445][173]AssetCheck: New page: Asset Save: TitleScreen
+[2021.04.23-23.16.41:445][173]LogContentValidation: Display: Validating World /Game/SRPGF2ExampleGame/Maps/TitleScreen/TitleScreen.TitleScreen
+[2021.04.23-23.16.51:800][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.04.23-23.16.51:902][397]LogSavePackage: Moving '../../../Templates/SRPGF/SRPGF_JRPG/Saved/TitleScreen842503B9473C2D6165329F9CB013D384.tmp' to '../../../Templates/SRPGF/SRPGF_JRPG/Content/SRPGF2ExampleGame/Maps/TitleScreen/TitleScreen.umap'
+[2021.04.23-23.16.51:925][397]AssetCheck: New page: Asset Save: TitleScreen
+[2021.04.23-23.16.51:925][397]LogContentValidation: Display: Validating World /Game/SRPGF2ExampleGame/Maps/TitleScreen/TitleScreen.TitleScreen
+[2021.04.23-23.17.01:288][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.04.23-23.17.01:316][503]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SRPGF2ExampleGame/Maps/TitleScreen/TitleScreen.TitleScreen
+[2021.04.23-23.17.01:316][503]Cmd: MAP LOAD FILE="../../../Templates/SRPGF/SRPGF_JRPG/Content/SRPGF2ExampleGame/Maps/TitleScreen/TitleScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.23-23.17.01:316][503]LightingResults: New page: Lighting Build
+[2021.04.23-23.17.01:316][503]LoadErrors: New page: Loading map: TitleScreen.umap
+[2021.04.23-23.17.01:342][503]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.04.23-23.17.01:342][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.23-23.17.01:345][503]MapCheck: New page: Map Check
+[2021.04.23-23.17.01:345][503]LightingResults: New page: Lighting Build
+[2021.04.23-23.17.01:362][503]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.23-23.17.01:371][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.04.23-23.17.01:407][503]LogAudio: Display: Audio Device (ID: 1) registered with world 'TitleScreen'.
+[2021.04.23-23.17.01:408][503]LogAIModule: Creating AISystem for world TitleScreen
+[2021.04.23-23.17.01:636][503]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.23-23.17.01:662][503]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.04.23-23.17.01:669][503]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.23-23.17.01:670][503]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.162ms to complete.
+[2021.04.23-23.17.01:670][503]LogFileHelpers: Loading map 'TitleScreen' took 0.354
+[2021.04.23-23.17.03:101][663]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/SRPGF2ExampleGame/Maps/TitleScreen/Menu_TitleScreen.Menu_TitleScreen
+[2021.04.23-23.17.08:213][975]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/SRPGF2ExampleGame/Maps/TitleScreen/TitleScreen.TitleScreen:PersistentLevel.TitleScreen
+[2021.04.23-23.17.18:745][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2021.04.23-23.17.18:856][ 62]LogSavePackage: Moving '../../../Templates/SRPGF/SRPGF_JRPG/Saved/TitleScreen41D50D724077E1524CDF6C9CE62A46B4.tmp' to '../../../Templates/SRPGF/SRPGF_JRPG/Content/SRPGF2ExampleGame/Maps/TitleScreen/TitleScreen.umap'
+[2021.04.23-23.17.18:870][ 62]LogFileHelpers: Saving map 'TitleScreen' took 0.204
+[2021.04.23-23.17.18:888][ 62]AssetCheck: New page: Asset Save: TitleScreen
+[2021.04.23-23.17.18:888][ 62]LogContentValidation: Display: Validating World /Game/SRPGF2ExampleGame/Maps/TitleScreen/TitleScreen.TitleScreen
+[2021.04.23-23.17.26:025][837]LogEditorViewport: Clicking Background
+[2021.04.23-23.17.26:286][867]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.23-23.17.26:293][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.23-23.17.26:293][867]PIE: New page: PIE session: TitleScreen (Apr 23, 2021, 3:17:26 PM)
+[2021.04.23-23.17.26:322][867]LogPlayLevel: Creating play world package: /Game/SRPGF2ExampleGame/Maps/TitleScreen/UEDPIE_0_TitleScreen
+[2021.04.23-23.17.26:338][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016489s)
+[2021.04.23-23.17.26:339][867]LogAIModule: Creating AISystem for world TitleScreen
+[2021.04.23-23.17.26:339][867]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2021.04.23-23.17.26:339][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SRPGF2ExampleGame/Maps/TitleScreen/TitleScreen.TitleScreen to /Game/SRPGF2ExampleGame/Maps/TitleScreen/UEDPIE_0_TitleScreen.TitleScreen (0.017525s)
+[2021.04.23-23.17.26:375][867]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2021.04.23-23.17.26:383][867]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.04.23-23.17.26:383][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.23-23.17.26:383][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.23-23.17.26:383][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.23-23.17.26:383][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.23-23.17.26:383][867]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.23-23.17.26:383][867]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.23-23.17.26:383][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.23-23.17.26:383][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.23-23.17.26:384][867]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.23-23.17.26:384][867]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.23-23.17.26:391][867]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.23-23.17.26:391][867]LogAudioMixer: Display: 1: FrontRight
+[2021.04.23-23.17.26:402][867]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.04.23-23.17.26:402][867]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.23-23.17.26:402][867]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.23-23.17.26:402][867]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.23-23.17.26:402][867]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.23-23.17.26:403][867]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.23-23.17.26:403][867]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.23-23.17.26:414][867]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.23-23.17.26:414][867]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.23-23.17.26:414][867]LogInit: FAudioDevice initialized.
+[2021.04.23-23.17.26:414][867]LogAudio: Display: Audio Device (ID: 5) registered with world 'TitleScreen'.
+[2021.04.23-23.17.26:419][867]LogLoad: Game class is 'RPGGameMode_C'
+[2021.04.23-23.17.26:421][867]LogWorld: Bringing World /Game/SRPGF2ExampleGame/Maps/TitleScreen/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2021.04.23-19.17.26
+[2021.04.23-23.17.26:421][867]LogWorld: Bringing up level for play took: 0.001263
+[2021.04.23-23.17.26:421][867]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.04.23-23.17.26:423][867]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.04.23-23.17.26:423][867]PIE: Server logged in
+[2021.04.23-23.17.26:424][867]PIE: Play in editor total start time 0.131 seconds.
+[2021.04.23-23.17.26:482][873]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.23-23.17.26:482][873]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.04.23-23.17.26:482][873]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.04.23-23.17.28:109][ 67]LogNet: Browse: /Game/SRPGF2ExampleGame/Maps/Locations/ExampleMap
+[2021.04.23-23.17.28:109][ 67]LogLoad: LoadMap: /Game/SRPGF2ExampleGame/Maps/Locations/ExampleMap
+[2021.04.23-23.17.28:109][ 67]LogWorld: BeginTearingDown for /Game/SRPGF2ExampleGame/Maps/TitleScreen/UEDPIE_0_TitleScreen
+[2021.04.23-23.17.28:109][ 67]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.04.23-23.17.28:109][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.23-23.17.28:166][ 67]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.23-23.17.28:171][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.04.23-23.17.28:184][ 67]LogAudio: Display: Audio Device (ID: 5) registered with world 'ExampleMap'.
+[2021.04.23-23.17.28:185][ 67]LogAIModule: Creating AISystem for world ExampleMap
+[2021.04.23-23.17.28:185][ 67]LogLoad: Game class is 'GM_Default_C'
+[2021.04.23-23.17.28:195][ 67]LogWorld: Bringing World /Game/SRPGF2ExampleGame/Maps/Locations/UEDPIE_0_ExampleMap.ExampleMap up for play (max tick rate 0) at 2021.04.23-19.17.28
+[2021.04.23-23.17.28:195][ 67]LogWorld: Bringing up level for play took: 0.009573
+[2021.04.23-23.17.28:196][ 67]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.04.23-23.17.28:198][ 67]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.04.23-23.17.28:198][ 67]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.04.23-23.17.28:198][ 67]LogLoad: Took 0.089950 seconds to LoadMap(/Game/SRPGF2ExampleGame/Maps/Locations/ExampleMap)
+[2021.04.23-23.17.28:743][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.23-23.17.28:743][123]LogWorld: BeginTearingDown for /Game/SRPGF2ExampleGame/Maps/Locations/UEDPIE_0_ExampleMap
+[2021.04.23-23.17.28:743][123]LogWorld: UWorld::CleanupWorld for ExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.23-23.17.28:744][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.23-23.17.28:755][123]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.23-23.17.28:762][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.23-23.17.28:788][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.23-23.17.28:788][123]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.23-23.17.28:788][123]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.23-23.17.28:806][123]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.04.23-23.17.28:832][124]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.04.23-23.17.31:136][355]LogSlate: Took 0.014842 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.04.23-23.17.50:889][193]BlueprintLog: New page: Compile Menu_TitleScreen
+[2021.04.23-23.17.50:929][193]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2021.04.23-23.17.51:267][216]LogSavePackage: Moving '../../../Templates/SRPGF/SRPGF_JRPG/Saved/Menu_TitleScreenD5366F2B4AD407C7B01DE4A0304CDEF2.tmp' to '../../../Templates/SRPGF/SRPGF_JRPG/Content/SRPGF2ExampleGame/Maps/TitleScreen/Menu_TitleScreen.uasset'
+[2021.04.23-23.17.51:291][216]AssetCheck: New page: Asset Save: Menu_TitleScreen
+[2021.04.23-23.17.51:291][216]LogContentValidation: Display: Validating WidgetBlueprint /Game/SRPGF2ExampleGame/Maps/TitleScreen/Menu_TitleScreen.Menu_TitleScreen
+[2021.04.23-23.17.51:804][261]LogEditorViewport: Clicking Background
+[2021.04.23-23.17.52:254][305]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.23-23.17.52:261][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.23-23.17.52:261][305]PIE: New page: PIE session: TitleScreen (Apr 23, 2021, 3:17:52 PM)
+[2021.04.23-23.17.52:282][305]LogPlayLevel: Creating play world package: /Game/SRPGF2ExampleGame/Maps/TitleScreen/UEDPIE_0_TitleScreen
+[2021.04.23-23.17.52:298][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016636s)
+[2021.04.23-23.17.52:299][305]LogAIModule: Creating AISystem for world TitleScreen
+[2021.04.23-23.17.52:299][305]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2021.04.23-23.17.52:299][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SRPGF2ExampleGame/Maps/TitleScreen/TitleScreen.TitleScreen to /Game/SRPGF2ExampleGame/Maps/TitleScreen/UEDPIE_0_TitleScreen.TitleScreen (0.017653s)
+[2021.04.23-23.17.52:331][305]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2021.04.23-23.17.52:333][305]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.04.23-23.17.52:333][305]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.23-23.17.52:333][305]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.23-23.17.52:333][305]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.23-23.17.52:333][305]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.23-23.17.52:333][305]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.23-23.17.52:333][305]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.23-23.17.52:333][305]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.23-23.17.52:333][305]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.23-23.17.52:333][305]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.23-23.17.52:333][305]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.23-23.17.52:341][305]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.23-23.17.52:341][305]LogAudioMixer: Display: 1: FrontRight
+[2021.04.23-23.17.52:351][305]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.04.23-23.17.52:351][305]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.23-23.17.52:351][305]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.23-23.17.52:351][305]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.23-23.17.52:352][305]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.23-23.17.52:352][305]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.23-23.17.52:352][305]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.23-23.17.52:364][305]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.23-23.17.52:364][305]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.23-23.17.52:364][305]LogInit: FAudioDevice initialized.
+[2021.04.23-23.17.52:364][305]LogAudio: Display: Audio Device (ID: 6) registered with world 'TitleScreen'.
+[2021.04.23-23.17.52:374][305]LogLoad: Game class is 'RPGGameMode_C'
+[2021.04.23-23.17.52:376][305]LogWorld: Bringing World /Game/SRPGF2ExampleGame/Maps/TitleScreen/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2021.04.23-19.17.52
+[2021.04.23-23.17.52:376][305]LogWorld: Bringing up level for play took: 0.001226
+[2021.04.23-23.17.52:376][305]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.04.23-23.17.52:378][305]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.04.23-23.17.52:378][305]PIE: Server logged in
+[2021.04.23-23.17.52:379][305]PIE: Play in editor total start time 0.118 seconds.
+[2021.04.23-23.17.52:447][311]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.23-23.17.52:447][311]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.04.23-23.17.52:447][311]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.04.23-23.17.54:143][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.23-23.17.54:143][474]LogWorld: BeginTearingDown for /Game/SRPGF2ExampleGame/Maps/TitleScreen/UEDPIE_0_TitleScreen
+[2021.04.23-23.17.54:143][474]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.04.23-23.17.54:144][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.23-23.17.54:154][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.23-23.17.54:160][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.23-23.17.54:186][474]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.23-23.17.54:186][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.23-23.17.54:187][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.23-23.17.54:200][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.23-23.17.54:205][474]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.04.23-23.17.54:231][475]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.04.23-23.18.12:013][142]LogEditorViewport: Clicking Background
+[2021.04.23-23.18.12:532][190]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.23-23.18.12:539][190]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.04.23-23.18.12:539][190]LogPlayLevel: [PlayLevel] Compiling Menu_TitleScreen before play...
+[2021.04.23-23.18.12:651][190]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2021.04.23-23.18.12:653][190]LogPlayLevel: PlayLevel: Blueprint regeneration took 115 ms (1 blueprints)
+[2021.04.23-23.18.12:653][190]PIE: New page: PIE session: TitleScreen (Apr 23, 2021, 3:18:12 PM)
+[2021.04.23-23.18.12:702][190]LogPlayLevel: Creating play world package: /Game/SRPGF2ExampleGame/Maps/TitleScreen/UEDPIE_0_TitleScreen
+[2021.04.23-23.18.12:718][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016017s)
+[2021.04.23-23.18.12:718][190]LogAIModule: Creating AISystem for world TitleScreen
+[2021.04.23-23.18.12:719][190]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2021.04.23-23.18.12:719][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SRPGF2ExampleGame/Maps/TitleScreen/TitleScreen.TitleScreen to /Game/SRPGF2ExampleGame/Maps/TitleScreen/UEDPIE_0_TitleScreen.TitleScreen (0.017008s)
+[2021.04.23-23.18.12:746][190]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.04.23-23.18.12:748][190]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.04.23-23.18.12:748][190]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.23-23.18.12:748][190]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.23-23.18.12:748][190]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.23-23.18.12:748][190]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.23-23.18.12:748][190]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.23-23.18.12:748][190]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.23-23.18.12:748][190]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.23-23.18.12:748][190]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.23-23.18.12:749][190]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.23-23.18.12:749][190]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.23-23.18.12:756][190]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.23-23.18.12:756][190]LogAudioMixer: Display: 1: FrontRight
+[2021.04.23-23.18.12:766][190]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.04.23-23.18.12:767][190]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.23-23.18.12:767][190]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.23-23.18.12:767][190]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.23-23.18.12:767][190]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.23-23.18.12:767][190]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.23-23.18.12:767][190]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.23-23.18.12:778][190]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.23-23.18.12:778][190]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.23-23.18.12:778][190]LogInit: FAudioDevice initialized.
+[2021.04.23-23.18.12:778][190]LogAudio: Display: Audio Device (ID: 7) registered with world 'TitleScreen'.
+[2021.04.23-23.18.12:784][190]LogLoad: Game class is 'RPGGameMode_C'
+[2021.04.23-23.18.12:785][190]LogWorld: Bringing World /Game/SRPGF2ExampleGame/Maps/TitleScreen/UEDPIE_0_TitleScreen.TitleScreen up for play (max tick rate 0) at 2021.04.23-19.18.12
+[2021.04.23-23.18.12:786][190]LogWorld: Bringing up level for play took: 0.001339
+[2021.04.23-23.18.12:786][190]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.04.23-23.18.12:788][190]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.04.23-23.18.12:788][190]PIE: Server logged in
+[2021.04.23-23.18.12:788][190]PIE: Play in editor total start time 0.251 seconds.
+[2021.04.23-23.18.12:834][191]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.23-23.18.12:834][191]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.04.23-23.18.12:834][191]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.04.23-23.18.16:518][563]LogNet: Browse: /Game/SRPGF2ExampleGame/Maps/Locations/ExampleMap
+[2021.04.23-23.18.16:518][563]LogLoad: LoadMap: /Game/SRPGF2ExampleGame/Maps/Locations/ExampleMap
+[2021.04.23-23.18.16:518][563]LogWorld: BeginTearingDown for /Game/SRPGF2ExampleGame/Maps/TitleScreen/UEDPIE_0_TitleScreen
+[2021.04.23-23.18.16:518][563]LogWorld: UWorld::CleanupWorld for TitleScreen, bSessionEnded=true, bCleanupResources=true
+[2021.04.23-23.18.16:519][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.23-23.18.16:578][563]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.23-23.18.16:583][563]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.04.23-23.18.16:597][563]LogAudio: Display: Audio Device (ID: 7) registered with world 'ExampleMap'.
+[2021.04.23-23.18.16:598][563]LogAIModule: Creating AISystem for world ExampleMap
+[2021.04.23-23.18.16:598][563]LogLoad: Game class is 'GM_Default_C'
+[2021.04.23-23.18.16:607][563]LogWorld: Bringing World /Game/SRPGF2ExampleGame/Maps/Locations/UEDPIE_0_ExampleMap.ExampleMap up for play (max tick rate 0) at 2021.04.23-19.18.16
+[2021.04.23-23.18.16:607][563]LogWorld: Bringing up level for play took: 0.008448
+[2021.04.23-23.18.16:607][563]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.04.23-23.18.16:609][563]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.04.23-23.18.16:609][563]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.04.23-23.18.16:610][563]LogLoad: Took 0.091862 seconds to LoadMap(/Game/SRPGF2ExampleGame/Maps/Locations/ExampleMap)
+[2021.04.23-23.18.58:903][747]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.23-23.18.58:903][747]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.04.23-23.19.06:963][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.23-23.19.06:963][518]LogWorld: BeginTearingDown for /Game/SRPGF2ExampleGame/Maps/Locations/UEDPIE_0_ExampleMap
+[2021.04.23-23.19.06:964][518]LogWorld: UWorld::CleanupWorld for ExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.23-23.19.06:965][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.23-23.19.06:974][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.23-23.19.06:980][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.23-23.19.07:006][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.23-23.19.07:006][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.23-23.19.07:007][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.23-23.19.07:026][518]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.04.23-23.19.07:045][519]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.04.23-23.19.09:621][762]LogSavePackage: Moving '../../../Templates/SRPGF/SRPGF_JRPG/Saved/Menu_TitleScreen0B1C1B24494AD3C6F5E726A04F25DCEB.tmp' to '../../../Templates/SRPGF/SRPGF_JRPG/Content/SRPGF2ExampleGame/Maps/TitleScreen/Menu_TitleScreen.uasset'
+[2021.04.23-23.19.09:637][762]AssetCheck: New page: Asset Save: Menu_TitleScreen
+[2021.04.23-23.19.09:637][762]LogContentValidation: Display: Validating WidgetBlueprint /Game/SRPGF2ExampleGame/Maps/TitleScreen/Menu_TitleScreen.Menu_TitleScreen
+[2021.04.23-23.19.20:157][767]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SRPGF2ExampleGame/Blueprints/Combat/BattleSystem_ExampleJRPG.BattleSystem_ExampleJRPG
+[2021.04.23-23.20.20:047][271]BlueprintLog: New page: Compile BattleSystem_ExampleJRPG
+[2021.04.23-23.20.20:117][271]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2021.04.23-23.20.20:510][307]LogSavePackage: Moving '../../../Templates/SRPGF/SRPGF_JRPG/Saved/BattleSystem_ExampleJRPGB14E06A74CB294D445548DB86DE7A481.tmp' to '../../../Templates/SRPGF/SRPGF_JRPG/Content/SRPGF2ExampleGame/Blueprints/Combat/BattleSystem_ExampleJRPG.uasset'
+[2021.04.23-23.20.20:532][307]AssetCheck: New page: Asset Save: BattleSystem_ExampleJRPG
+[2021.04.23-23.20.20:532][307]LogContentValidation: Display: Validating Blueprint /Game/SRPGF2ExampleGame/Blueprints/Combat/BattleSystem_ExampleJRPG.BattleSystem_ExampleJRPG
+[2021.04.23-23.20.45:924][303]BlueprintLog: New page: Compile BattleSystem_ExampleJRPG
+[2021.04.23-23.20.45:993][303]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2021.04.23-23.20.46:292][327]LogSavePackage: Moving '../../../Templates/SRPGF/SRPGF_JRPG/Saved/BattleSystem_ExampleJRPGB3B2DB684242680E15DF1C8F878F799A.tmp' to '../../../Templates/SRPGF/SRPGF_JRPG/Content/SRPGF2ExampleGame/Blueprints/Combat/BattleSystem_ExampleJRPG.uasset'
+[2021.04.23-23.20.46:310][327]AssetCheck: New page: Asset Save: BattleSystem_ExampleJRPG
+[2021.04.23-23.20.46:310][327]LogContentValidation: Display: Validating Blueprint /Game/SRPGF2ExampleGame/Blueprints/Combat/BattleSystem_ExampleJRPG.BattleSystem_ExampleJRPG
+[2021.04.23-23.21.03:228][ 90]LogSavePackage: Moving '../../../Templates/SRPGF/SRPGF_JRPG/Saved/BattleSystem_ExampleJRPGA9C5E2BD44A1AD2694E3FEB195B6E7BA.tmp' to '../../../Templates/SRPGF/SRPGF_JRPG/Content/SRPGF2ExampleGame/Blueprints/Combat/BattleSystem_ExampleJRPG.uasset'
+[2021.04.23-23.21.03:246][ 90]AssetCheck: New page: Asset Save: BattleSystem_ExampleJRPG
+[2021.04.23-23.21.03:246][ 90]LogContentValidation: Display: Validating Blueprint /Game/SRPGF2ExampleGame/Blueprints/Combat/BattleSystem_ExampleJRPG.BattleSystem_ExampleJRPG
+[2021.04.23-23.21.28:276][834]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2021.04.23-23.21.28:385][834]LogSavePackage: Moving '../../../Templates/SRPGF/SRPGF_JRPG/Saved/TitleScreen031FCD7E43969163B7D83FB81CD11D42.tmp' to '../../../Templates/SRPGF/SRPGF_JRPG/Content/SRPGF2ExampleGame/Maps/TitleScreen/TitleScreen.umap'
+[2021.04.23-23.21.28:395][834]LogFileHelpers: Saving map 'TitleScreen' took 0.152
+[2021.04.23-23.21.28:411][834]AssetCheck: New page: Asset Save: TitleScreen
+[2021.04.23-23.21.28:411][834]LogContentValidation: Display: Validating World /Game/SRPGF2ExampleGame/Maps/TitleScreen/TitleScreen.TitleScreen
+[2021.04.23-23.21.31:821][237]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.04.23-23.21.54:233][237]LogStats: FPlatformStackWalk::StackWalkAndDump - 22.411 s
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: === Handled ensure: ===
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: 
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/UMG/Private/Slate/SObjectWidget.cpp] [Line: 43]
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: SObjectWidget for 'EntityDefault_Option_C /Engine/Transient.World_3:Menu_TitleScreen_C_4.WidgetTree.Selector_Option.WidgetTree.EntityDefault_Option_C_3' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: Stack: 
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ff9f5f7db1e UE4Editor-UMG.dll!DispatchCheckVerify<bool,<lambda_f5175ce3cf088a92cfba55ee8944de88> >() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Misc\AssertionMacros.h:164]
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ff9f5dc9972 UE4Editor-UMG.dll!SObjectWidget::~SObjectWidget() [D:\Build\++UE4\Sync\Engine\Source\Runtime\UMG\Private\Slate\SObjectWidget.cpp:43]
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ff9ff21a711 UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\SlotBase.cpp:76]
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ff9ff19e3bc UE4Editor-SlateCore.dll!SVerticalBox::FSlot::`scalar deleting destructor'() []
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ff9ff19170a UE4Editor-SlateCore.dll!SBoxPanel::~SBoxPanel() []
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ff9ff21a711 UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\SlotBase.cpp:76]
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ff9ff19a0e6 UE4Editor-SlateCore.dll!SOverlay::FOverlaySlot::`vector deleting destructor'() []
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ff9ff191a1a UE4Editor-SlateCore.dll!SOverlay::~SOverlay() []
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ff9ff21a711 UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\SlotBase.cpp:76]
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ffa00278911 UE4Editor-Slate.dll!SWidgetSwitcher::FSlot::`scalar deleting destructor'() []
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ffa00266042 UE4Editor-Slate.dll!TIndirectArray<SWidgetSwitcher::FSlot,TSizedDefaultAllocator<32> >::~TIndirectArray<SWidgetSwitcher::FSlot,TSizedDefaultAllocator<32> >() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Containers\IndirectArray.h:74]
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ffa0026bde3 UE4Editor-Slate.dll!SWidgetSwitcher::~SWidgetSwitcher() []
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ff9ff21a711 UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\SlotBase.cpp:76]
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ff9ff19a0e6 UE4Editor-SlateCore.dll!SOverlay::FOverlaySlot::`vector deleting destructor'() []
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ff9ff191a1a UE4Editor-SlateCore.dll!SOverlay::~SOverlay() []
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ff9ff21a711 UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\SlotBase.cpp:76]
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ffa0027861e UE4Editor-Slate.dll!SConstraintCanvas::FSlot::`scalar deleting destructor'() []
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ffa00265c42 UE4Editor-Slate.dll!TIndirectArray<SConstraintCanvas::FSlot,TSizedDefaultAllocator<32> >::~TIndirectArray<SConstraintCanvas::FSlot,TSizedDefaultAllocator<32> >() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Containers\IndirectArray.h:74]
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ffa0026a829 UE4Editor-Slate.dll!SConstraintCanvas::~SConstraintCanvas() []
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ff9ff21a711 UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\SlotBase.cpp:76]
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ff9ff19a0e6 UE4Editor-SlateCore.dll!SOverlay::FOverlaySlot::`vector deleting destructor'() []
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ff9ff191a1a UE4Editor-SlateCore.dll!SOverlay::~SOverlay() []
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ff9ff1979ab UE4Editor-SlateCore.dll!TSlotBase<FSimpleSlot>::operator[]() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Public\SlotBase.h:122]
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ff9f5dfaebd UE4Editor-UMG.dll!UUserWidget::BeginDestroy() [D:\Build\++UE4\Sync\Engine\Source\Runtime\UMG\Private\UserWidget.cpp:245]
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ffa098d9bc8 UE4Editor-CoreUObject.dll!UObject::ConditionalBeginDestroy() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\Obj.cpp:996]
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ffa098b88d8 UE4Editor-CoreUObject.dll!UnhashUnreachableObjects() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\GarbageCollection.cpp:2108]
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ffa09839ec1 UE4Editor-CoreUObject.dll!CollectGarbageInternal() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\GarbageCollection.cpp:2049]
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ffa09838e8c UE4Editor-CoreUObject.dll!CollectGarbage() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\GarbageCollection.cpp:2153]
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ff9f981fcf6 UE4Editor-UnrealEd.dll!UEditorEngine::OnPreSaveWorld() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\EditorEngine.cpp:4666]
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ff9f98324c3 UE4Editor-UnrealEd.dll!UEditorEngine::Save() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\EditorEngine.cpp:4531]
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ff9f98331ae UE4Editor-UnrealEd.dll!UEditorEngine::SavePackage() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\EditorEngine.cpp:4608]
+[2021.04.23-23.21.54:233][237]LogOutputDevice: Error: [Callstack] 0x00007ff9f986e6b2 UE4Editor-UnrealEd.dll!UEditorEngine::Exec_Obj() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\EditorServer.cpp:4659]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ff9f986afec UE4Editor-UnrealEd.dll!UEditorEngine::Exec() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\EditorServer.cpp:5763]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ff9fa0edb77 UE4Editor-UnrealEd.dll!UUnrealEdEngine::Exec() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\UnrealEdSrv.cpp:697]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ff9f9ba6e5c UE4Editor-UnrealEd.dll!SaveWorld() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\FileHelpers.cpp:752]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ff9f9ba4e81 UE4Editor-UnrealEd.dll!FEditorFileUtils::SaveMap() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\FileHelpers.cpp:2649]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ff9f9b6a4dc UE4Editor-UnrealEd.dll!InternalSavePackage() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\FileHelpers.cpp:3095]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ff9f9b68edd UE4Editor-UnrealEd.dll!InternalPromptForCheckoutAndSave() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\FileHelpers.cpp:3665]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ff9f9b91f80 UE4Editor-UnrealEd.dll!FEditorFileUtils::PromptForCheckoutAndSave() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\FileHelpers.cpp:3958]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ff9fa14d32c UE4Editor-UnrealEd.dll!FAssetEditorToolkit::SaveAsset_Execute() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Toolkits\AssetEditorToolkit.cpp:564]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ff9fa0fb546 UE4Editor-UnrealEd.dll!TBaseSPMethodDelegateInstance<0,FAssetEditorToolkit,0,void __cdecl(void),FDefaultDelegateUserPolicy>::ExecuteIfSafe() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:307]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ffa000a33a9 UE4Editor-Slate.dll!FUICommandList::ConditionalProcessCommandBindings() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Commands\UICommandList.cpp:220]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ffa000dc62a UE4Editor-Slate.dll!FUICommandList::ProcessCommandBindings() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Commands\UICommandList.cpp:164]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ff9fa140c8e UE4Editor-UnrealEd.dll!FBaseToolkit::ProcessCommandBindings() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Toolkits\BaseToolkit.cpp:83]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ff9fa12dca0 UE4Editor-UnrealEd.dll!SStandaloneAssetEditorToolkitHost::OnKeyDown() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Toolkits\SStandaloneAssetEditorToolkitHost.cpp:365]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ffa000725b2 UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FBubblePolicy,FKeyEvent,<lambda_f630e7f24dbef73857a69219e32f2d96> >() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:383]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ffa000de368 UE4Editor-Slate.dll!FSlateApplication::ProcessKeyDownEvent() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:4325]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ffa000d2226 UE4Editor-Slate.dll!FSlateApplication::OnKeyDown() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:4222]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ffa1c68b958 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2013]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ffa1c679197 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2642]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ffa1c68e389 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:1046]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ffa1c674310 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:878]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ffa7dc4e858 USER32.dll!UnknownFunction []
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ffa7dc4e299 USER32.dll!UnknownFunction []
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ffa1c68f914 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsPlatformApplicationMisc.cpp:130]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ff683a08848 UE4Editor.exe!FEngineLoop::Tick() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:4748]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ff683a2117c UE4Editor.exe!GuardedMain() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:169]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ff683a2125a UE4Editor.exe!GuardedMainWrapper() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:137]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ff683a352bd UE4Editor.exe!WinMain() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:268]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ff683a37fea UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\5\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ffa7e807034 KERNEL32.DLL!UnknownFunction []
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: [Callstack] 0x00007ffa7eec2651 ntdll.dll!UnknownFunction []
+[2021.04.23-23.21.54:234][237]LogOutputDevice: Error: 
